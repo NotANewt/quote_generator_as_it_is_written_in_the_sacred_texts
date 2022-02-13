@@ -1,0 +1,1 @@
+# quote_generator_as_it_is_written_in_the_sacred_texts
